@@ -1,7 +1,7 @@
 # RickAndMortyList
 
 
-##### Primer proyecto ionic y angular en que se usa la api de [Rick and Morty](https://rickandmortyapi.com/)
+##### Primer proyecto Ionic y angular en que se usa la api de [Rick and Morty](https://rickandmortyapi.com/)
 
 ## Capturas
 
